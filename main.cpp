@@ -7,7 +7,6 @@ int main() {
   
   const std::string API_KEY = "your_api_key_here";
 
-
   std::string location;
   std::cout << "Enter your location: ";
   std::cin >> location;
