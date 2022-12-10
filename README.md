@@ -8,12 +8,12 @@ Additionally, the code does not include error checking for the curl library call
 
 Finally, the code only displays the current temperature and weather description. In a real-world app, you may want to display more weather data, such as the current wind speed, humidity, and other information.
 
-Requirements
+## Requirements
 
 The nlohmann/json library for parsing JSON data
 The curl library for sending HTTP requests
 A free API key from OpenWeatherMap
 
-Usage
+## Usage
 
 When the app starts, it will ask you for your location. Enter the name of a city or town, and the app will display the current temperature and weather description for that location.
